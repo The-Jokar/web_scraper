@@ -1,1 +1,1 @@
-# web_scraper
+This API web scrapper uses the requests library and MarketStack to pull the latest stock market data from today and shows you a visual representation of open, close and percentage chnage over the course of the day. It allows you to input as mamny companies as you want seperated by commas upt to the limit of the free API, if no input is given then it deafult to all the IT companies in the S&P 500. The information that is gathered is then visualised using MatPlotLib to create an easily interpretable graph.
